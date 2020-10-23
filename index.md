@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+## Github Repo
 
-You can use the [editor on GitHub](https://github.com/covid19-repos/covid19-repos.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Ever since the beginning of the outbreak of the COVID-19 pandemic, researchers from interdisciplinary domains have worked together to fight against the crisis. The open source community, plays a vital role in coping with the pandemic which is inherently a collaborative process. Plenty of COVID-19 related datasets, tools, software, deep learning models, are created and shared in research communities with great efforts. However, COVID-19 themed open source projects have not been systematically studied, and we are still unaware how the open source community helps combat COVID-19 in practice. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+To fill this void, we take the first step to study COVID-19 themed repositories in GitHub, one of the most popular collaborative platforms. We have collected over 67K COVID-19 themed GitHub repositories till July 2020. We release this dataset to boost future research on adopting open source technologies and resources to rapidly tackle the worldwide public health emergency in practice. For more details, please refer to https://covid19-repos.github.io/. 
 
-### Markdown
+The dataset includes the following files: 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* contributor-activity.csv. 
+* contributor-country.csv
+* daily_confirmed.csv
+* logs.zip
+* readme.zip
+* repo_link.csv
+* repos-baseinfo.csv
+* repos-contributors.xlsx
+The dataset can be accessed in the following link:
+https://github.com/covid19-repos/covid19-repos
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/covid19-repos/covid19-repos.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Contact us
+If you have any suggestion or comment on the dataset, or collaboration interest, please contact us through covid19.repos.dataset@gmail.com

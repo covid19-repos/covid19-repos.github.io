@@ -6,14 +6,14 @@ To fill this void, we take the first step to study COVID-19 themed repositories 
 
 The dataset includes the following files: 
 
-* contributor-activity.csv. 
-* contributor-country.csv
-* daily_confirmed.csv
-* logs.zip
-* readme.zip
-* repo_link.csv
-* repos-baseinfo.csv
-* repos-contributors.xlsx
+* contributor-activity.csv: This file contains the contribution of each contributor.
+* contributor-country.csv: This file contains the country name of each contributor.
+* daily_confirmed.csv: This file contains the commit logs for two months of top stared repositories in each category.
+* logs.zip: This file contains the commit logs for two months of top stared repositories.
+* readme.zip: This file contains the readme files of all repositories. 
+* repo_link.csv: This file contains the repository ID and all links included in their readme files. 
+* repos-baseinfo.csv: This file contains the basic information of each repository. 
+* repos-contributors.xlsx: This file contains the basic information of contributors. 
 
 The dataset can be accessed via the following link: [Link](https://github.com/covid19-repos/covid19-repos)
 

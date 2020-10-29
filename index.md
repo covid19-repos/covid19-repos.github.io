@@ -17,10 +17,11 @@ The dataset includes the following files:
 
 The dataset can be accessed via the following link: [Link](https://github.com/covid19-repos/covid19-repos)
 
+### Publication
 If you use this dataset, please cite our paper 'When the Open Source Community Meets COVID-19: Characterizing COVID-19 themed GitHub Repositories'  
 [Link](https://arxiv.org/abs/2010.12218)
 
-### Bibtex:
+#### Bibtex:
 
 @Article{NEURO2020,
   author = {Yanfeng Wu and Chenkai Guo and Hongcan Gao and Jing Xu and Guangdong Bai},

@@ -20,6 +20,15 @@ The dataset can be accessed via the following link: [Link](https://github.com/co
 If you use this dataset, please cite our paper 'When the Open Source Community Meets COVID-19: Characterizing COVID-19 themed GitHub Repositories'  
 [Link](https://arxiv.org/abs/2010.12218)
 
+@Article{NEURO2020,
+  author = {Yanfeng Wu and Chenkai Guo and Hongcan Gao and Jing Xu and Guangdong Bai},
+  title = {Dilated residual networks with multi-level attention for speaker verification}, 
+  year = {2020},
+  journal = {Neurocomputing},
+  volume = {412},
+  pages = {177 - 186},
+}
+
 
 ### Contact us
 If you have any suggestion or comment on the dataset, or collaboration interest, please contact us through covid19.repos.dataset@gmail.com

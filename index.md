@@ -23,13 +23,13 @@ If you use this dataset, please cite our paper 'When the Open Source Community M
 
 #### Bibtex:
 
-@Article{NEURO2020,
-  author = {Yanfeng Wu and Chenkai Guo and Hongcan Gao and Jing Xu and Guangdong Bai},
-  title = {Dilated residual networks with multi-level attention for speaker verification}, 
-  year = {2020},
-  journal = {Neurocomputing},
-  volume = {412},
-  pages = {177 - 186},
+@misc{wang2020open,
+      title={When the Open Source Community Meets COVID-19: Characterizing COVID-19 themed GitHub Repositories}, 
+      author={Liu Wang and Ruiqing Li and Jiaxin Zhu and Guangdong Bai and Haoyu Wang},
+      year={2020},
+      eprint={2010.12218},
+      archivePrefix={arXiv},
+      primaryClass={cs.SE}
 }
 
 

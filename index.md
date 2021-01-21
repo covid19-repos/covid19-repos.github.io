@@ -21,17 +21,5 @@ The dataset can be accessed via the following link: [Link](https://github.com/co
 If you use this dataset, please cite our paper 'When the Open Source Community Meets COVID-19: Characterizing COVID-19 themed GitHub Repositories'  
 [Link](https://arxiv.org/abs/2010.12218)
 
-#### Bibtex:
-
-@misc{wang2020open,
-      title={When the Open Source Community Meets COVID-19: Characterizing COVID-19 themed GitHub Repositories}, 
-      author={Liu Wang and Ruiqing Li and Jiaxin Zhu and Guangdong Bai and Haoyu Wang},
-      year={2020},
-      eprint={2010.12218},
-      archivePrefix={arXiv},
-      primaryClass={cs.SE}
-}
-
-
 ### Contact us
 If you have any suggestion or comment on the dataset, or collaboration interest, please contact us through covid19.repos.dataset@gmail.com

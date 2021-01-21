@@ -17,5 +17,3 @@ The dataset includes the following files:
 
 The dataset can be accessed via the following link: [Link](https://github.com/covid19-repos/covid19-repos)
 
-### Contact us
-If you have any suggestion or comment on the dataset, or collaboration interest, please contact us through covid19.repos.dataset@gmail.com
